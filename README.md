@@ -28,6 +28,8 @@ For those concerned about nut allergies, Twix, Kit Kat, and Milky Way offer popu
 For healthier options, Reese’s Miniatures have a relatively low sugar content (3.40%) compared to other candies, while candies like "One Dime" and "One Quarter" have even lower sugar content (1.10%).
 ### 4) Top Candies with No Distinct Flavours:
 
+![image](https://github.com/user-attachments/assets/a6fd4259-df52-43a7-954b-102e502966d9)
+
 For candies that don't have a strong flavour but remain well-liked, One Quarter , Pixie Sticks , and Candy Corn are popular choices. These can cater to those who prefer simpler or more nostalgic candy options.
 
 ### 5) Price Considerations:
