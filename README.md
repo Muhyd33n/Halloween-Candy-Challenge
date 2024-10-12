@@ -34,6 +34,8 @@ For candies that don't have a strong flavour but remain well-liked, One Quarter 
 
 ### 5) Price Considerations:
 
+![image](https://github.com/user-attachments/assets/eae5ac85-2c57-4132-bca3-3970b1560445)
+
 Tootsie Roll Midgies and Pixie Sticks offer affordable candy options, with price percentages at 1.10% and 2.30%, respectively, without sacrificing much Tootsie Roll Midgies 's popularity - 45.74%.
 
 ## Recommendations
