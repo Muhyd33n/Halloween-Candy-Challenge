@@ -71,3 +71,12 @@ Pixie Sticks and Tootsie Roll Midgies: Keep costs down while still providing can
 ## Summary
 
 By offering this mix of Reese's Miniatures, Twix, and Pixie Sticks, you'll appeal to different tastes, dietary restrictions, and price sensitivities. This combination ensures that we meet the Objective of selecting 3 treats that cater to all tastes while using a data-driven approach to back up the decisions.
+
+## Technologies Used
+PowerBI
+
+
+## Contact
+GitHub: @Muhyd33n 
+LinkedIn: [Opeyemi Olalekan](https://www.linkedin.com/in/opeyemi-olalekan-939923b8/)
+Email: olalekanopeyemi@ymail.com
