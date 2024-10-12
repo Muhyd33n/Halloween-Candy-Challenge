@@ -9,8 +9,11 @@ Using online votes ranking 85 types of candy, your task is to find the 3 treats 
 ## Insights
 
 ### 1) Top Popular Candies:
-Reese's Peanut Butter Cup is the most popular candy, with an 84.18% approval rate, followed closely by Reese's Miniatures at 81.87% and Twix at 81.64%. Offering any of these would likely attract a wide range of trick-or-treaters.
+
 ![image](https://github.com/user-attachments/assets/ad59a3a8-81da-4066-b29b-1257d6ffba21)
+
+Reese's Peanut Butter Cup is the most popular candy, with an 84.18% approval rate, followed closely by Reese's Miniatures at 81.87% and Twix at 81.64%. Offering any of these would likely attract a wide range of trick-or-treaters.
+
 
 ### 2) Peanut & Almond-Free Options:
 
