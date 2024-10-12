@@ -1,5 +1,8 @@
 # Halloween-Candy-Challenge
 
+![Uploading image.png…]()
+
+
 ## Challenge Objective
 
 For the Maven Halloween Challenge, you’ll need to take a data-driven approach for becoming the most popular trick-or-treating house on the block.
