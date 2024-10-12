@@ -1,7 +1,6 @@
 # Halloween-Candy-Challenge
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/10dd1e4c-4bc1-4c79-a8b3-dd59a501d29c)
 
 ## Challenge Objective
 
