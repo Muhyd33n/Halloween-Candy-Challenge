@@ -86,5 +86,5 @@ PowerBI
 
 ## Contact
 GitHub: @Muhyd33n 
-LinkedIn: [Opeyemi Olalekan](https://www.linkedin.com/in/opeyemi-olalekan-939923b8/)
+LinkedIn: [Opeyemi Olalekan](https://www.linkedin.com/in/opeyemiolalekan/)
 Email: olalekanopeyemi@ymail.com
