@@ -38,12 +38,13 @@ For candies that don't have a strong flavour but remain well-liked, One Quarter 
 
 ![image](https://github.com/user-attachments/assets/eae5ac85-2c57-4132-bca3-3970b1560445)
 
-Tootsie Roll Midgies and Pixie Sticks offer affordable candy options, with price percentages at 1.10% and 2.30%, respectively, without sacrificing much Tootsie Roll Midgies 's popularity - 45.74%.
+Tootsie Roll Midgies and Pixie Sticks  offer affordable candy options, with price percentages at 1.10% and 2.30%, respectively, while maintaining decent popularity. Tootsie Roll Midgies has a popularity of 45.74% with a Price-to-Win Ratio of 0.02, making it a great value. Pixie Sticks, with a Price-to-Win Ratio of 0.06, also balances affordability and decent popularity.
 
 ## Dashboard
 The complete dashboard summarizing all insights:
 
-![image](https://github.com/user-attachments/assets/0559f6d1-2663-484f-a2f2-e12d76368b81)
+![image](https://github.com/user-attachments/assets/f785cda1-bffe-4863-8b28-50adf34d47dd)
+
 
 
 ## Recommendations
@@ -72,7 +73,7 @@ One Quarter: A low-sugar (second lowest on the list) and simple-flavour candy wi
 
 ### 4) Affordable but Popular Choices:
 
-Pixie Sticks and Tootsie Roll Midgies: Keep costs down while still providing candies that are popular among trick-or-treaters. Pixie Sticks is both affordable and liked by those who enjoy candies without distinct flavours.
+Pixie Sticks and Tootsie Roll Midgies: Both are cost-effective options that maintain popularity among trick-or-treaters. Tootsie Roll Midgies, with a strong Price-to-Win Ratio of 0.02, offers great value for its 45.74% popularity. Pixie Sticks, with a Price-to-Win Ratio of 0.06, is affordable and popular among those who prefer simpler, non-distinct flavored candies.
 
 ## Summary
 
