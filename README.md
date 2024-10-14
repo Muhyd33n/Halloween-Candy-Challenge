@@ -36,7 +36,8 @@ For candies that don't have a strong flavour but remain well-liked, One Quarter 
 
 ### 5) Price Considerations:
 
-![image](https://github.com/user-attachments/assets/eae5ac85-2c57-4132-bca3-3970b1560445)
+![image](https://github.com/user-attachments/assets/8882d910-1fc3-46c6-9158-db6ce3ae4243)
+
 
 Tootsie Roll Midgies and Pixie Sticks  offer affordable candy options, with price percentages at 1.10% and 2.30%, respectively, while maintaining decent popularity. Tootsie Roll Midgies has a popularity of 45.74% with a Price-to-Win Ratio of 0.02, making it a great value. Pixie Sticks, with a Price-to-Win Ratio of 0.06, also balances affordability and decent popularity.
 
